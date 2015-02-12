@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="AfridiEnergy">
+    <serverData>
+      <paths name="AfridiEnergy">
+        <serverdata>
+          <mappings>
+            <mapping deploy="http://AfridiEnergy.com//home4/afridien" local="$PROJECT_DIR$" web="home4/afridien" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
