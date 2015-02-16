@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb73278e-dbc9-4854-96c8-8f372f28a23c" name="Default" comment="Afridi energy">
-      <change type="DELETED" beforePath="C:\Users\Shamim\WebstormProjects\AfridiEnergy\ic_launcher\res\drawable-hdpi\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Shamim\WebstormProjects\AfridiEnergy\ic_launcher\res\drawable-hdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Shamim\WebstormProjects\AfridiEnergy\ic_launcher\res\drawable-mdpi\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Shamim\WebstormProjects\AfridiEnergy\ic_launcher\res\drawable-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Shamim\WebstormProjects\AfridiEnergy\ic_launcher\res\drawable-xhdpi\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Shamim\WebstormProjects\AfridiEnergy\ic_launcher\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Shamim\WebstormProjects\AfridiEnergy\ic_launcher\res\drawable-xxhdpi\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Shamim\WebstormProjects\AfridiEnergy\ic_launcher\res\drawable-xxhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Shamim\WebstormProjects\AfridiEnergy\ic_launcher\res\drawable-xxxhdpi\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Shamim\WebstormProjects\AfridiEnergy\ic_launcher\res\drawable-xxxhdpi\ic_launcher.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -40,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3189824" vertical-offset="7317" max-vertical-offset="9060">
-              <caret line="374" column="45" selection-start-line="374" selection-start-column="45" selection-end-line="374" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.3319672" vertical-offset="7438" max-vertical-offset="9020">
+              <caret line="380" column="93" selection-start-line="380" selection-start-column="93" selection-end-line="380" selection-end-column="93" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -263,7 +253,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -575,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3189824" vertical-offset="7317" max-vertical-offset="9060">
-          <caret line="374" column="45" selection-start-line="374" selection-start-column="45" selection-end-line="374" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.3319672" vertical-offset="7438" max-vertical-offset="9020">
+          <caret line="380" column="93" selection-start-line="380" selection-start-column="93" selection-end-line="380" selection-end-column="93" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
